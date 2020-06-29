@@ -1,1 +1,2 @@
 # ITC511S-Group-Assignment
+To get the amount of hours that an employee worked we decided to give each employee their own special card. This card would have their name , surname, employee number, job position and so in. All their information would be stored in the bar code of the card. When employees come to work every morning, they would have to swipe their card into a machine. Once swiped, the system will start counting the number of hours until the minimum hours an employee needs to work is met.
